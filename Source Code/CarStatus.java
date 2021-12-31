@@ -1,0 +1,11 @@
+enum CarStatus {
+  HELD,
+  RESERVED,
+  PICKED_UP,
+  EXCEPTIONAL,
+  RENT_READY,
+  SERVICE_NEEDED,
+  REMOVED,
+  RETURNED
+
+}

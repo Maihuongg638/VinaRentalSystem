@@ -1,0 +1,4 @@
+enum PaymentItem{
+  deposit,
+  costLessDeposit
+}
